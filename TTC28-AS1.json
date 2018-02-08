@@ -1,0 +1,877 @@
+[{
+"data": {
+    "id":"TTC28-AS1",
+    "weight":3.31895967252469e-10
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"BCAT1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"BNIP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"C3orf58",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"CHD9",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"E2F3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"EP300",
+    "weight":9.35e-10
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"FZD3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"HDAC4",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"HERC6",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"HOXA3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"ISCU",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MAOA",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MAPK8",
+    "weight":0.319
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MDM4",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MECP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MED16",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MOV10",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NCOA2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NUMB",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PKD2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PPM1D",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RAD52",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RARG",
+    "weight":0.149
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RB1",
+    "weight":4.85e-12
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RBM10",
+    "weight":0.136
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RBPMS",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"SACM1L",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"SMC1A",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"SMCHD1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"TARBP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"TSC22D3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"ZNF559",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"2",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "BCAT1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"3",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "BNIP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"4",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "C3orf58"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"5",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "CHD9"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"6",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "E2F3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"7",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "EP300"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"8",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "FZD3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"9",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "HDAC4"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"10",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "HERC6"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"11",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "HOXA3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"12",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "ISCU"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"13",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "MAOA"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"14",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "MAPK8"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"15",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "MDM4"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"16",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "MECP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"17",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "MED16"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"18",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "MOV10"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"19",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "NCOA2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"20",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "NUMB"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"21",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "PKD2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"22",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "PPM1D"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"23",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "RAD52"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"24",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "RARG"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"25",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "RB1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"26",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "RBM10"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"27",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "RBPMS"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"28",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "SACM1L"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"29",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "SMC1A"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"30",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "SMCHD1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"31",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "TARBP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"32",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "TSC22D3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"33",
+    "weight":1,
+    "source":"TTC28-AS1",
+    "target": "ZNF559"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+}]
