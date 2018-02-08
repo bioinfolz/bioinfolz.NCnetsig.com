@@ -1,0 +1,1768 @@
+[{
+"data": {
+    "id":"TUG1",
+    "weight":2.87777811213783e-28
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"ADAM17",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"AHR",
+    "weight":0.162
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"AKT1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"ALG12",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"AP3M2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"ATF6",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"BIRC6",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"BNIP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"CDK6",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"DICER1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"E2F3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"EP300",
+    "weight":9.35e-10
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"FAM102B",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"FNDC3B",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"GALNT7",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"GTF2B",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"HIVEP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"HMGB1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"IGF2BP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"KLF3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"KRAS",
+    "weight":1.64e-12
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MAN1B1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MAPK1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MAPK9",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MCFD2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MCL1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MECP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MOV10",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"MTMR3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NAMPT",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NCOA2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NF2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NFATC2IP",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NPNT",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NRAS",
+    "weight":0.0837
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"NUMB",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PEA15",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PKD2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"POFUT2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"POM121",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PRKAB1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PRKAB2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PTBP2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PTEN",
+    "weight":0.0172
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"PUM2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RASA1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RB1",
+    "weight":4.85e-12
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RBM47",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RBPMS",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RGS5",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"RHOA",
+    "weight":1.83e-10
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"SCAMP1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"SLC20A1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"SLC38A1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"SUFU",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"THBS1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"TMTC3",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"TPD52L2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"TRIP13",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"TSPAN6",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"UHRF2",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"VEGFA",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"XPO6",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"ZEB1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"ZMIZ1",
+    "weight":1
+  },
+  "group": "nodes",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"2",
+    "weight":1,
+    "source":"TUG1",
+    "target": "ADAM17"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"3",
+    "weight":1,
+    "source":"TUG1",
+    "target": "AHR"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"4",
+    "weight":1,
+    "source":"TUG1",
+    "target": "AKT1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"5",
+    "weight":1,
+    "source":"TUG1",
+    "target": "ALG12"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"6",
+    "weight":1,
+    "source":"TUG1",
+    "target": "AP3M2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"7",
+    "weight":1,
+    "source":"TUG1",
+    "target": "ATF6"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"8",
+    "weight":1,
+    "source":"TUG1",
+    "target": "BIRC6"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"9",
+    "weight":1,
+    "source":"TUG1",
+    "target": "BNIP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"10",
+    "weight":1,
+    "source":"TUG1",
+    "target": "CDK6"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"11",
+    "weight":1,
+    "source":"TUG1",
+    "target": "DICER1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"12",
+    "weight":1,
+    "source":"TUG1",
+    "target": "E2F3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"13",
+    "weight":1,
+    "source":"TUG1",
+    "target": "EP300"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"14",
+    "weight":1,
+    "source":"TUG1",
+    "target": "FAM102B"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"15",
+    "weight":1,
+    "source":"TUG1",
+    "target": "FNDC3B"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"16",
+    "weight":1,
+    "source":"TUG1",
+    "target": "GALNT7"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"17",
+    "weight":1,
+    "source":"TUG1",
+    "target": "GTF2B"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"18",
+    "weight":1,
+    "source":"TUG1",
+    "target": "HIVEP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"19",
+    "weight":1,
+    "source":"TUG1",
+    "target": "HMGB1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"20",
+    "weight":1,
+    "source":"TUG1",
+    "target": "IGF2BP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"21",
+    "weight":1,
+    "source":"TUG1",
+    "target": "KLF3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"22",
+    "weight":1,
+    "source":"TUG1",
+    "target": "KRAS"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"23",
+    "weight":1,
+    "source":"TUG1",
+    "target": "MAN1B1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"24",
+    "weight":1,
+    "source":"TUG1",
+    "target": "MAPK1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"25",
+    "weight":1,
+    "source":"TUG1",
+    "target": "MAPK9"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"26",
+    "weight":1,
+    "source":"TUG1",
+    "target": "MCFD2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"27",
+    "weight":1,
+    "source":"TUG1",
+    "target": "MCL1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"28",
+    "weight":1,
+    "source":"TUG1",
+    "target": "MECP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"29",
+    "weight":1,
+    "source":"TUG1",
+    "target": "MOV10"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"30",
+    "weight":0.807379,
+    "source":"TUG1",
+    "target": "MTMR3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"31",
+    "weight":1,
+    "source":"TUG1",
+    "target": "NAMPT"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"32",
+    "weight":1,
+    "source":"TUG1",
+    "target": "NCOA2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"33",
+    "weight":1,
+    "source":"TUG1",
+    "target": "NF2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"34",
+    "weight":1,
+    "source":"TUG1",
+    "target": "NFATC2IP"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"35",
+    "weight":1,
+    "source":"TUG1",
+    "target": "NPNT"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"36",
+    "weight":1,
+    "source":"TUG1",
+    "target": "NRAS"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"37",
+    "weight":1,
+    "source":"TUG1",
+    "target": "NUMB"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"38",
+    "weight":1,
+    "source":"TUG1",
+    "target": "PEA15"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"39",
+    "weight":1,
+    "source":"TUG1",
+    "target": "PKD2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"40",
+    "weight":1,
+    "source":"TUG1",
+    "target": "POFUT2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"41",
+    "weight":1,
+    "source":"TUG1",
+    "target": "POM121"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"42",
+    "weight":1,
+    "source":"TUG1",
+    "target": "PRKAB1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"43",
+    "weight":1,
+    "source":"TUG1",
+    "target": "PRKAB2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"44",
+    "weight":1,
+    "source":"TUG1",
+    "target": "PTBP2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"45",
+    "weight":1,
+    "source":"TUG1",
+    "target": "PTEN"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"46",
+    "weight":1,
+    "source":"TUG1",
+    "target": "PUM2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"47",
+    "weight":1,
+    "source":"TUG1",
+    "target": "RASA1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"48",
+    "weight":1,
+    "source":"TUG1",
+    "target": "RB1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"49",
+    "weight":1,
+    "source":"TUG1",
+    "target": "RBM47"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"50",
+    "weight":1,
+    "source":"TUG1",
+    "target": "RBPMS"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"51",
+    "weight":1,
+    "source":"TUG1",
+    "target": "RGS5"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"52",
+    "weight":1,
+    "source":"TUG1",
+    "target": "RHOA"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"53",
+    "weight":1,
+    "source":"TUG1",
+    "target": "SCAMP1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"54",
+    "weight":1,
+    "source":"TUG1",
+    "target": "SLC20A1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"55",
+    "weight":1,
+    "source":"TUG1",
+    "target": "SLC38A1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"56",
+    "weight":1,
+    "source":"TUG1",
+    "target": "SUFU"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"57",
+    "weight":1,
+    "source":"TUG1",
+    "target": "THBS1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"58",
+    "weight":1,
+    "source":"TUG1",
+    "target": "TMTC3"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"59",
+    "weight":1,
+    "source":"TUG1",
+    "target": "TPD52L2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"60",
+    "weight":1,
+    "source":"TUG1",
+    "target": "TRIP13"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"61",
+    "weight":1,
+    "source":"TUG1",
+    "target": "TSPAN6"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"62",
+    "weight":1,
+    "source":"TUG1",
+    "target": "UHRF2"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"63",
+    "weight":1,
+    "source":"TUG1",
+    "target": "VEGFA"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"64",
+    "weight":1,
+    "source":"TUG1",
+    "target": "XPO6"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"65",
+    "weight":1,
+    "source":"TUG1",
+    "target": "ZEB1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+},{
+"data": {
+    "id":"66",
+    "weight":1,
+    "source":"TUG1",
+    "target": "ZMIZ1"
+  },
+  "position": {},
+  "group": "edges",
+  "removed": false,
+  "selected": false,
+  "selectable": true,
+  "locked": false,
+  "grabbable": true,
+  "classes": ""
+}]
