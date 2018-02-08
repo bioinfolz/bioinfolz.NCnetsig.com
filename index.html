@@ -1,22 +1,98 @@
-<!DOCTYPE>
-<!-- This code is for demonstration purposes only.  You should not hotlink to Github, Rawgit, or files from the Cytoscape.js documentation in your production apps. -->
-<html>
-  <head>
-    <title>Grid demo</title>
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
-    <link href="style.css" rel="stylesheet" />
-	<script src="cytoscape.min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HOME</title>
+<style type="text/css">
+.STYLE27 {font-family: Arial;
+	font-size: 24px;
+}
+.STYLE48 {font-size: 20px; font-family: Arial; font-weight: bold; }
+#Layer3 {
+	width: 929px;
+	#height: 210px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-color: #000;
+}
+body {
+	background-color: #CBDADE;
+	margin-top: 0px;
+}
+#Layer {
+	width: 934px;
+	height: 1112px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-color: #000;
+}
+.STYLE35 {
+	font-size: 15px;
+	font-family: Arial;
+	line-height: 1.4em;
+	font-weight: normal;
+}
+.STYLE351 {
+	font-size: 17px;
+	font-family: Arial;
+	line-height: 1.4em;
+	font-weight: bold;
+}
+</style>
 </head>
-  <body>
-    <h1></h1>
-    <div id="selectDiv">
-	 Select index gene of interest :
-	 <select name="selectGene" onChange="checkOption(this)">
-		<option value='TTC28-AS1'>TTC28-AS1</option>
-		<option value='TUG1'>TUG1</option>
-	 </select>
-	</div>
-	<div id="cy"></div>
-    <script src="code.js"></script>
-  </body>
+
+<body>
+<div id="Layer">
+  <dl>
+    <div align="center">
+      <table width="923" height="866" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 923px; table-layout: fixed; overflow: hidden; font-family: Arial, Helvetica, sans-serif; font-size: 17px;">
+        <tr>
+          <td width="13" height="136" bgcolor="#008A8A" scope="col">&nbsp;</td>
+          <td width="817" height="136" bgcolor="#008A8A" class="STYLE48" scope="col"><div align="center">
+            <p>cisASE: A method for putative cis-regulated ASE detection </p>
+            <p>in RNA sequencing data</p>
+          </div></td>
+          <td width="94" bgcolor="#008A8A" scope="col"><img src="logo.jpg" width="94" height="135" class="STYLE48" /></td>
+        </tr>
+        <tr>
+        <td height="13" bgcolor="#CBDADE">&nbsp;</td>
+        <td height="13" colspan="2" bgcolor="#CBDADE"><span class="STYLE48"><a href="HOME.html">HOME</a> | <a href="Browser.html">BROWSER</a> | <a href="Download.html">Download</a> |</span></td>
+        </tr>
+        <tr>
+          <td height="63">&nbsp;</td>
+          <td colspan="2"><h4 class="STYLE48">CisASE</h4>
+            <p><a name="OLE_LINK114" id="OLE_LINK114"></a><span style="text-align: left"><a name="OLE_LINK113" id="OLE_LINK113">CisASE is a likelihood based <span class="STYLE35">method</span> for ASE detection at multiple levels(SNV,exon and gene).</a> It  takes matched DNA sequencing data as reference to reduce artifact from technical  bias and copy number variation to identify ASE due to</span> putative cis-regulation, and it works almost as well for dataset without DNA sequencing.            </p>
+            <div>
+              <div></div>
+            </div>
+<h4 class="STYLE48">Workflow of cisASE</h4>
+            <p><img src="figure1.png" alt="" width="860" height="409" align="middle" /></p>
+            <p><a name="OLE_LINK37" id="OLE_LINK37"></a><a name="OLE_LINK36" id="OLE_LINK36"></a><a name="OLE_LINK35" id="OLE_LINK35">Raw RNA-Seq and DNA-Seq data were processed to  pileup at each allele, and then submitted to a likelihood  model to calculate the likelihood ratio under two models (LOD), and null  simulation of DNA and RNA allelic counts were generated from real data to  produce null distribution of LOD, and defined an LOD cutoff respect to a  certain significant level. LOD for each measured SNV was compared to the  defined LOD threshold to determine if it&rsquo;s an ASE or not.</a><br />
+            </p></td>
+        </tr>
+        <tr>
+          <td height="22" bgcolor="#FFFFFF">&nbsp;</td>
+          <td colspan="2" bgcolor="#FFFFFF" class="STYLE48"><p class="STYLE48">Reference</p>
+          <p class="STYLE35">Liu Z, Gui TT, Wang Z, Li H, Dong X, Li YX: A likelihood method for detecting putative cis-regulated allele specific expression in RNA sequencing data.</p>
+          <p class="STYLE35">&nbsp;</p></td>
+        </tr>
+        <tr>
+          <td height="22" bgcolor="#CBDADE">&nbsp;</td>
+          <td colspan="2" bgcolor="#CBDADE" class="STYLE35"><span class="STYLE351"><a href="HOME.html">HOME</a> | <a href="Quick start.html">Quick start</a> | <a href="Download.html">Download</a> |</span></td>
+        </tr>
+      </table>
+    </div>
+    <table width="20" border="0">
+    </table>
+    <dt class="STYLE27">&nbsp;</dt>
+  </dl>
+</div>
+</body>
 </html>
