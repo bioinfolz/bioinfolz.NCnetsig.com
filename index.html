@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<!-- This code is for demonstration purposes only.  You should not hotlink to Github, Rawgit, or files from the Cytoscape.js documentation in your production apps. -->
+<html>
+  <head>
+    <title>Grid demo</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+    <link href="style.css" rel="stylesheet" />
+	<script src="../../js/cytoscape.min.js"></script>
+</head>
+  <body>
+    <h1></h1>
+    <div id="selectDiv">
+	 Select index gene of interest :
+	 <select name="selectGene" onChange="checkOption(this)">
+		<option value='TTC28-AS1'>TTC28-AS1</option>
+		<option value='TUG1'>TUG1</option>
+	 </select>
+	</div>
+	<div id="distDiv"><a id="actionDist" href="#top">Toggle distribution figure</a></div>
+	<div id="cy"></div>
+    <script src="code.js"></script>
+  </body>
+</html>
